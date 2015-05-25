@@ -1,0 +1,17 @@
+table{
+width:100%;
+text-align:center;
+}
+th{
+height:50px;
+background-color: #0bf;
+}
+td{
+background-color: #0ff;
+}
+.on{
+background-color: #0f0;
+}
+.off{
+background-color: #f00;
+}
